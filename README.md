@@ -3,9 +3,9 @@
 Exhibit material for the **Vintage Computer Festival West 2026** display of three
 1980s German educational computers:
 
-- **Busch Microtronic 2090** — a 1981 4-bit, hex-keypad single-board trainer
-- **Kosmos CP1** — an experimenter's microcomputer
-- **Philips MasterLab MC6400** — an INS8070 (SC/MP III) CPU trainer
+- **Busch Microtronic 2090** (1981) — a 4-bit, hex-keypad single-board trainer
+- **Kosmos CP1** (1983) — an experimenter's microcomputer
+- **Philips MasterLab MC6400** (1983) — an INS8070 (SC/MP III) CPU trainer
 
 **🌐 Live site: https://lambdamikel.github.io/vcf-west-2026/**
 
@@ -49,8 +49,23 @@ Posters are laid out **A3 portrait**; print the PDFs at 100% (A3), or scale to
 
 ## The projects behind the exhibit
 
+- [Busch-2090](https://github.com/lambdamikel/Busch-2090) — the main Microtronic repo:
+  emulators (Arduino Uno / Mega), classic program library, docs
+- [Microtronic Phoenix](https://github.com/lambdamikel/microtronic-phoenix) — the
+  modern Microtronic re-implementation
+- [Claude-written ("vibe-coded") Microtronic programs](https://github.com/lambdamikel/picoram2090/tree/main/software/vibe-coded)
+  — new games and demos for the Microtronic + PicoRAM 2090, written by Claude
 - [Philips MC6400 vector graphics](https://github.com/lambdamikel/philips-mc6400-vector-graphics)
-- [Microtronic Phoenix](https://github.com/lambdamikel/microtronic-phoenix)
+  — 3-D wireframe cube & vector shooter on an X-Y scope, in 1 KB
+
+## Read more
+
+- [English Busch Microtronic manuals](https://github.com/lambdamikel/microtronic-2090-manuals-english)
+  — English translation of the original Microtronic manual (web + PDF; hosted by
+  permission of Jörg Vallen / Busch GmbH & Co. KG)
+- [German Educational Computers of the 1980s](https://github.com/lambdamikel/german-educational-computers-of-the-80s)
+  — the all-in-one English edition of the LOAD-magazine articles covering all three
+  machines, with benchmarks and modern developments
 
 ---
 
