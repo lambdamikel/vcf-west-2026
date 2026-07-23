@@ -9,6 +9,17 @@ Exhibit material for the **Vintage Computer Festival West 2026** display of thre
 
 **🌐 Live site: https://lambdamikel.github.io/vcf-west-2026/**
 
+## QR codes
+
+Scan (or print for the exhibit table):
+
+| Live site (posters & material) | This GitHub repo |
+|:---:|:---:|
+| <img src="qr/vcf-west-2026-site.png" width="260" alt="QR code for the live site"/> | <img src="qr/vcf-west-2026-repo.png" width="260" alt="QR code for the GitHub repo"/> |
+| `lambdamikel.github.io/vcf-west-2026` | `github.com/lambdamikel/vcf-west-2026` |
+
+Print-quality files are in [`qr/`](qr/) — 1080 px PNGs and scalable SVGs.
+
 ## What's here
 
 ```
@@ -16,6 +27,7 @@ index.html      landing page (poster gallery)
 posters/        A3 exhibit posters + kids' handout — HTML (live) and PDF (print)
 adverts/        original scanned period adverts for the three machines (PDF)
 thumbs/         gallery preview images
+qr/             QR codes for the live site and this repo (PNG + SVG, print quality)
 ```
 
 ### Posters (A3)
