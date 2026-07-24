@@ -65,6 +65,10 @@ Posters are laid out **A3 portrait**; print the PDFs at 100% (A3), or scale to
   emulators (Arduino Uno / Mega), classic program library, docs
 - [Microtronic Phoenix](https://github.com/lambdamikel/microtronic-phoenix) — the
   modern Microtronic re-implementation
+- [PicoRAM 2090](https://github.com/lambdamikel/picoram2090) — a Raspberry Pi Pico
+  (RP2040) 2114-SRAM emulator + SD-card storage for the Busch Microtronic
+- [PicoRAM Ultimate](https://github.com/lambdamikel/picoram-ultimate) — the
+  general-purpose SRAM emulator & SD-card interface for vintage single-board computers
 - [Claude-written ("vibe-coded") Microtronic programs](https://github.com/lambdamikel/picoram2090/tree/main/software/vibe-coded)
   — new games and demos for the Microtronic + PicoRAM 2090, written by Claude
 - [Philips MC6400 vector graphics](https://github.com/lambdamikel/philips-mc6400-vector-graphics)
