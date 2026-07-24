@@ -9,6 +9,18 @@ Exhibit material for the **Vintage Computer Festival West 2026** display of thre
 
 **🌐 Live site: https://lambdamikel.github.io/vcf-west-2026/**
 
+## 📖 Background reading — in English
+
+These machines were born in 1980s Germany, so their manuals and the articles about them
+are German. Two English translations tell the whole story:
+
+- **★ Start here — [German Educational Computers of the 1980s](https://github.com/lambdamikel/german-educational-computers-of-the-80s)**
+  — the all-in-one English edition of the LOAD-magazine articles covering all three machines,
+  with a speed benchmark, modern developments and the Microtronic Phoenix.
+- **[English Busch Microtronic Manuals](https://github.com/lambdamikel/microtronic-2090-manuals-english)**
+  — an English translation of the original Microtronic 2090 manual (web + PDF; hosted by
+  permission of Jörg Vallen / Busch GmbH &amp; Co. KG).
+
 ## QR codes
 
 Scan (or print for the exhibit table):
@@ -74,14 +86,8 @@ Posters are laid out **A3 portrait**; print the PDFs at 100% (A3), or scale to
 - [Philips MC6400 vector graphics](https://github.com/lambdamikel/philips-mc6400-vector-graphics)
   — 3-D wireframe cube & vector shooter on an X-Y scope, in 1 KB
 
-## Read more
-
-- [English Busch Microtronic manuals](https://github.com/lambdamikel/microtronic-2090-manuals-english)
-  — English translation of the original Microtronic manual (web + PDF; hosted by
-  permission of Jörg Vallen / Busch GmbH & Co. KG)
-- [German Educational Computers of the 1980s](https://github.com/lambdamikel/german-educational-computers-of-the-80s)
-  — the all-in-one English edition of the LOAD-magazine articles covering all three
-  machines, with benchmarks and modern developments
+For English-language background on the machines themselves, see
+[📖 Background reading](#-background-reading--in-english) near the top.
 
 ---
 
