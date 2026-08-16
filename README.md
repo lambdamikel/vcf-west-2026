@@ -72,6 +72,7 @@ adverts/        original scanned period adverts for the three machines (PDF)
 thumbs/         gallery preview images
 qr/             QR codes for the live site and this repo (PNG + SVG, print quality)
 media/          post-show photos (aftermath section)
+documents/      show documents (the official VCF West 2026 program guide)
 ```
 
 ### Posters (A3)
@@ -102,6 +103,13 @@ A friendly take-home one-pager — binary, hex, and your first machine-code prog
 
 Posters are laid out **A3 portrait**; print the PDFs at 100% (A3), or scale to
 12×18 / 13×19 in. The handout is US Letter.
+
+## Documents
+
+- **[VCF West 2026 Program Guide](documents/VCF-West-2026-Program-Guide.pdf)** (PDF, 14 pp) —
+  the official event program from the **Vintage Computer Federation** ("Dawn of the PC"):
+  schedule, exhibitor list, talks and show info. © Vintage Computer Federation — a 501(c)(3)
+  non-profit ([vcfed.org](https://vcfed.org)); included here for reference.
 
 ## The projects behind the exhibit
 
