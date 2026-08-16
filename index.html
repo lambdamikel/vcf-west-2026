@@ -106,6 +106,35 @@
   .feat p{margin:0; color:var(--muted); font-size:.9rem}
   .feat .go{margin-top:4px; color:var(--amber); font-weight:700; font-size:.86rem}
   .feat:hover .go{text-decoration:underline}
+
+  /* Aftermath: post-show highlights */
+  .aftermath{
+    margin-top:34px;
+    background:linear-gradient(180deg, rgba(229,72,77,.10), rgba(53,208,216,.06));
+    border:1px solid rgba(229,72,77,.38); border-radius:16px;
+    padding:24px 24px 26px;
+  }
+  .aftermath .fh h2{font-size:1.44rem; margin:0}
+  .aftermath .fh .flag{color:var(--red); border-color:rgba(229,72,77,.5)}
+  .aftermath .flead{margin:8px 0 0; color:var(--text); font-size:1.02rem; max-width:860px}
+  .after-media{display:grid; gap:18px; grid-template-columns:1fr 1fr; margin-top:20px}
+  @media (max-width:720px){ .after-media{grid-template-columns:1fr} }
+  .after-media figure{margin:0}
+  .after-media img{width:100%; height:auto; display:block; border-radius:12px; border:1px solid var(--line)}
+  .after-media figcaption{margin-top:8px; color:var(--muted); font-size:.82rem; line-height:1.45}
+  .after-media figcaption .cred{color:#7d8794}
+  .highlights{margin:22px 0 0; display:grid; gap:14px; grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+  .hl{background:var(--panel2); border:1px solid var(--line); border-radius:12px; padding:16px 18px}
+  .hl h3{margin:0 0 6px; font-size:1.04rem}
+  .hl p{margin:0; color:var(--muted); font-size:.92rem}
+  .pullquote{
+    margin:14px 0 0; padding:14px 18px; border-left:3px solid var(--red);
+    background:rgba(229,72,77,.07); border-radius:0 10px 10px 0;
+    color:var(--text); font-size:1.02rem; font-style:italic;
+  }
+  .pullquote .who{display:block; margin-top:8px; font-style:normal; font-size:.86rem; color:var(--amber); font-weight:700}
+  .after-links{display:flex; gap:10px 24px; flex-wrap:wrap; margin-top:20px; font-weight:600}
+  .after-links a::before{content:"▶ "; color:var(--red)}
 </style>
 </head>
 <body>
@@ -124,6 +153,55 @@
 </header>
 
 <main>
+
+  <section class="aftermath" aria-label="VCF West 2026 aftermath and highlights">
+    <div class="fh">
+      <h2>VCF West 2026 — Aftermath</h2>
+      <span class="flag">The show happened!</span>
+    </div>
+    <p class="flead"><b>VCF West 2026 was a lot of fun — here are my highlights.</b><br>
+    August 2026 · Computer History Museum, Mountain View, California.</p>
+
+    <div class="after-media">
+      <figure>
+        <img src="media/vcf2026-group-ap.jpg" alt="Michael Wessel with Jose Corral and Leonard Tramiel at the VCF West 2026 table">
+        <figcaption>Michael Wessel with <b>Jose Corral</b> and <b>Leonard Tramiel</b> at the exhibit table.
+        <span class="cred">Still from “Silicon Valley celebrates its past at Vintage Computer Festival,”
+        © AP&nbsp;Archive — <a href="https://youtu.be/yubh3oMjUns?t=19">youtu.be/yubh3oMjUns</a>.</span></figcaption>
+      </figure>
+      <figure>
+        <img src="media/vcf2026-table.jpg" alt="The exhibit table: Busch Microtronic beside the Kosmos CP1 box">
+        <figcaption>My exhibit table — the <b>Busch Microtronic</b> (center) beside the <b>Kosmos CP1</b>
+        “Computer-Praxis” box, with the PicoRAM&nbsp;2090 and the vector-scope build.</figcaption>
+      </figure>
+    </div>
+
+    <div class="highlights">
+      <div class="hl">
+        <h3>Allan Alcorn stopped by</h3>
+        <p>Atari co-founder <b>Allan Alcorn</b> — the engineer behind the original <em>PONG</em> —
+        was taken with the Vector Invaders shooter running on the oscilloscope, and talked through how
+        the 1972 <em>PONG</em> was built entirely from discrete hardware logic, with no microprocessor
+        and no software at all.</p>
+      </div>
+      <div class="hl">
+        <h3>Leonard Tramiel &amp; the Lectron kits</h3>
+        <p><b>Leonard Tramiel</b> shared that he first learned electronics as a kid from the
+        <b>Braun Lectron</b> magnetic building-block kits — a lovely full-circle moment beside a table
+        of 1980s German educational computers.</p>
+      </div>
+    </div>
+
+    <blockquote class="pullquote">
+      “You made an oscilloscope do something that it is not supposed to do — like I did back in the day with PONG!”
+      <span class="who">— Allan Alcorn, on the Vector Invaders shooter</span>
+    </blockquote>
+
+    <div class="after-links">
+      <a href="https://youtu.be/yubh3oMjUns?t=19">Watch the moment — AP Archive coverage</a>
+      <a href="https://youtu.be/QwauecMYTC4">Walk my table — full video</a>
+    </div>
+  </section>
 
   <section class="featured" aria-label="Background reading in English">
     <div class="fh">

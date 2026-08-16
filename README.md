@@ -9,6 +9,36 @@ Exhibit material for the **Vintage Computer Festival West 2026** display of thre
 
 **🌐 Live site: https://lambdamikel.github.io/vcf-west-2026/**
 
+## 🎉 VCF West 2026 — Aftermath
+
+**VCF West 2026 was a lot of fun — here are my highlights.**
+*August 2026 · Computer History Museum, Mountain View, California.*
+
+<p>
+  <img src="media/vcf2026-group-ap.jpg" width="46%" alt="Michael Wessel with Jose Corral and Leonard Tramiel"/>
+  <img src="media/vcf2026-table.jpg" width="46%" alt="The exhibit table: Busch Microtronic and Kosmos CP1"/>
+</p>
+
+*Left:* Michael Wessel with **Jose Corral** and **Leonard Tramiel** at the table — a still from
+*"Silicon Valley celebrates its past at Vintage Computer Festival,"* © AP Archive
+([youtu.be/yubh3oMjUns](https://youtu.be/yubh3oMjUns?t=19)).
+*Right:* my exhibit table — the Busch Microtronic beside the Kosmos CP1 "Computer-Praxis" box.
+
+- **Allan Alcorn stopped by.** Atari co-founder **Allan Alcorn** — the engineer behind the
+  original *PONG* — was taken with the Vector Invaders shooter on the oscilloscope, and talked
+  through how the 1972 *PONG* was built entirely from discrete hardware logic, with no
+  microprocessor and no software at all. His compliment:
+
+  > "You made an oscilloscope do something that it is not supposed to do — like I did back in the day with PONG!"
+  > — **Allan Alcorn**, on the Vector Invaders shooter
+
+- **Leonard Tramiel & the Lectron kits.** **Leonard Tramiel** shared that he first learned
+  electronics as a kid from the **Braun Lectron** magnetic building-block kits — a full-circle
+  moment beside a table of 1980s German educational computers.
+
+🎥 **Videos:** [the moment, AP Archive coverage](https://youtu.be/yubh3oMjUns?t=19) ·
+[walk my table (my video)](https://youtu.be/QwauecMYTC4)
+
 ## 📖 Background reading — in English
 
 These machines were born in 1980s Germany, so their manuals and the articles about them
@@ -40,6 +70,7 @@ posters/        A3 exhibit posters + kids' handout — HTML (live) and PDF (prin
 adverts/        original scanned period adverts for the three machines (PDF)
 thumbs/         gallery preview images
 qr/             QR codes for the live site and this repo (PNG + SVG, print quality)
+media/          post-show photos (aftermath section)
 ```
 
 ### Posters (A3)
