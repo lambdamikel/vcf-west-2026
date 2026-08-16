@@ -14,15 +14,16 @@ Exhibit material for the **Vintage Computer Festival West 2026** display of thre
 **VCF West 2026 was a lot of fun — here are my highlights.**
 *August 2026 · Computer History Museum, Mountain View, California.*
 
-<p>
-  <img src="media/vcf2026-group-ap.jpg" width="46%" alt="Michael Wessel with Jose Corral and Leonard Tramiel"/>
-  <img src="media/vcf2026-table.jpg" width="46%" alt="The exhibit table: Busch Microtronic and Kosmos CP1"/>
-</p>
+The whole setup — the Tektronix scope drawing the rotating vector cube, the Busch Microtronic
+and Kosmos CP1 boxes, the *Vector Invaders* controller, and the family of emulator builds:
 
-*Left:* Michael Wessel with **Jose Corral** and **Leonard Tramiel** at the table — a still from
+![The full VCF West 2026 exhibit table](media/vcf2026-table.jpg)
+
+Michael Wessel with **Jose Corral** and **Leonard Tramiel** at the table — a still from
 *"Silicon Valley celebrates its past at Vintage Computer Festival,"* © AP Archive
-([youtu.be/yubh3oMjUns](https://youtu.be/yubh3oMjUns?t=19)).
-*Right:* my exhibit table — the Busch Microtronic beside the Kosmos CP1 "Computer-Praxis" box.
+([youtu.be/yubh3oMjUns](https://youtu.be/yubh3oMjUns?t=19)):
+
+<img src="media/vcf2026-group-ap.jpg" width="62%" alt="Michael Wessel with Jose Corral and Leonard Tramiel"/>
 
 - **Allan Alcorn stopped by.** Atari co-founder **Allan Alcorn** — the engineer behind the
   original *PONG* — was taken with the Vector Invaders shooter on the oscilloscope, and talked

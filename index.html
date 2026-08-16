@@ -117,10 +117,10 @@
   .aftermath .fh h2{font-size:1.44rem; margin:0}
   .aftermath .fh .flag{color:var(--red); border-color:rgba(229,72,77,.5)}
   .aftermath .flead{margin:8px 0 0; color:var(--text); font-size:1.02rem; max-width:860px}
-  .after-media{display:grid; gap:18px; grid-template-columns:1fr 1fr; margin-top:20px}
-  @media (max-width:720px){ .after-media{grid-template-columns:1fr} }
+  .after-media{display:flex; flex-direction:column; gap:18px; margin-top:20px}
   .after-media figure{margin:0}
   .after-media img{width:100%; height:auto; display:block; border-radius:12px; border:1px solid var(--line)}
+  .after-media .group img{max-width:560px}
   .after-media figcaption{margin-top:8px; color:var(--muted); font-size:.82rem; line-height:1.45}
   .after-media figcaption .cred{color:#7d8794}
   .highlights{margin:22px 0 0; display:grid; gap:14px; grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
@@ -164,15 +164,16 @@
 
     <div class="after-media">
       <figure>
+        <img src="media/vcf2026-table.jpg" alt="The full VCF West 2026 exhibit table: oscilloscope drawing a vector cube, Microtronic and CP1, and the emulator builds">
+        <figcaption>The whole setup — the <b>Tektronix scope</b> drawing the rotating vector cube, the
+        <b>Busch Microtronic</b> and <b>Kosmos CP1</b> boxes, the <em>Vector Invaders</em> controller,
+        and the family of Microtronic emulator builds and the PicoRAM&nbsp;2090.</figcaption>
+      </figure>
+      <figure class="group">
         <img src="media/vcf2026-group-ap.jpg" alt="Michael Wessel with Jose Corral and Leonard Tramiel at the VCF West 2026 table">
         <figcaption>Michael Wessel with <b>Jose Corral</b> and <b>Leonard Tramiel</b> at the exhibit table.
         <span class="cred">Still from “Silicon Valley celebrates its past at Vintage Computer Festival,”
         © AP&nbsp;Archive — <a href="https://youtu.be/yubh3oMjUns?t=19">youtu.be/yubh3oMjUns</a>.</span></figcaption>
-      </figure>
-      <figure>
-        <img src="media/vcf2026-table.jpg" alt="The exhibit table: Busch Microtronic beside the Kosmos CP1 box">
-        <figcaption>My exhibit table — the <b>Busch Microtronic</b> (center) beside the <b>Kosmos CP1</b>
-        “Computer-Praxis” box, with the PicoRAM&nbsp;2090 and the vector-scope build.</figcaption>
       </figure>
     </div>
 
