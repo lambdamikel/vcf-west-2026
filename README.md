@@ -1,5 +1,7 @@
 # VCF West 2026 — German Educational Computers of the 1980s
 
+#### Project Page: [www.michael-wessel.info/hardware.html](https://www.michael-wessel.info/hardware.html#vcf-west-2026-exhibit)
+
 Exhibit material for the **Vintage Computer Festival West 2026** display of three
 1980s German educational computers:
 
